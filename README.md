@@ -1,0 +1,2 @@
+# GENAI
+personal_learning
