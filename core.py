@@ -2,8 +2,8 @@ from dotenv import load_dotenv
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
-from code.personal_learning.GENAI.schema import ProductPriceResponse
 from langsmith import traceable
+from schema import ProductPriceResponse
 
 load_dotenv()
 
