@@ -67,6 +67,8 @@ Create a `.env` file in the root directory and add:
 ```
 OPENAI_API_KEY=your_openai_api_key
 LANGCHAIN_API_KEY=your_langsmith_api_key
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_PROJECT=product-price-checker
 ```
 
 ## 🧠 Build the App
